@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: notes app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kumaha
+Implementation-Vendor-Id: do.notes
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/notes/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
